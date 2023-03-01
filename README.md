@@ -32,10 +32,13 @@
 
 <> pkg install git
 
-<> rm -rf Talha-react
+<> rm -rf FIRST-OLD
 
-<> git clone https://github.com/TermuxTalha/Talha-react.git
+<> git clone https://github.com/DARK-ALHAJ-404/FIRST-OLD.git
 
 <> cd FIRST-OLD
 
 <> python ALHAJ-1.py
+
+★ Facebook Page => 
+★ Facebook Group =>
