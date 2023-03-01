@@ -40,5 +40,5 @@
 
 <> python ALHAJ-1.py
 
-★ Facebook Page => 
-★ Facebook Group =>
+★ Facebook Page => https://www.facebook.com/profile.php?id=100090797616829
+★ Facebook Group => https://facebook.com/groups/1713018672413612/
